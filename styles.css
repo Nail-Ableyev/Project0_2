@@ -1,0 +1,30 @@
+.card{
+	width: 50%;
+	margin: auto;
+	border: 2px solid grey;
+	padding: 2em;
+}
+
+.fact{
+	font-style: italic;
+}
+
+.info{
+	border: 2px solid grey;
+	padding: 1em;
+	margin-top: 1em;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+span{
+	font-weight: bold;
+}
+
+img{
+	margin: auto;
+	width: 100%;
+}
